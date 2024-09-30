@@ -1,4 +1,4 @@
-# Credit_Card_Financial_Dashboard_Power_BI_Project
+# Credit_Card_Financial_Power_BI_Project
 
 ## Overview
 
