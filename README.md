@@ -6,7 +6,6 @@ The Credit Card Financial Dashboard provides an insightful overview of credit ca
 
 ## Features
 
-- **Transaction Overview**: Visual representation of all transactions categorized by type (e.g., groceries, entertainment, utilities).
 - **Spending Trends**: Line charts showing spending patterns over time to help users understand their financial habits.
 - **Payment Tracking**: Summary of payment due dates, amounts, and payment status.
 - **Credit Utilization**: Gauge displaying current credit utilization ratio compared to credit limit.
